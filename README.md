@@ -17,7 +17,7 @@ AHoy Matey is my first C# program and first working chess engine.
 
 ## Current Version
 
-**v1.10** — Initial baseline release
+**v1.20** — Latest release
 
 AHoy Matey will continue to grow as new chess-engine features are added and tested.
 
