@@ -24,9 +24,8 @@ AM is in its infancy and is growing as more power and features are added.
 
 AHoy Matey will continue to grow as new chess-engine features are added and tested.
 
-AHoy Matey is my first C# program and first working chess program. AM is in its infancy and is growing as more power and features are added.
-
-Why the Name? AHoy Matey started out as a mate(y) in 3 puzzle solver and evolved into a full chess engine. The name just stuck.
+Why the Name? 
+AHoy Matey started out as a mate(y) in 3 puzzle solver and evolved into a full chess engine. The name just stuck.
 
 Licenses:
 
