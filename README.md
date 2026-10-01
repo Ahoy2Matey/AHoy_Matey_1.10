@@ -1,5 +1,28 @@
 AHoy Matey – Chess Engine    
- 
+
+<img width="300" height="240" alt="AM Logo created 092426 for Github" src="https://github.com/user-attachments/assets/d0d43176-b03d-4ca2-8c1e-2a6af745ea34" />
+
+
+AHoy Matey is my first C# program and first working chess engine.
+AM is in its infancy and is growing as more power and features are added.
+
+## Features
+
+- UCI compatible
+- Minimax search
+- Alpha-beta pruning
+- Simple material evaluation
+- Randomized move ordering
+- Legal move generation through Rudzoft ChessLib
+- Principal variation reporting
+
+## Current Version
+
+**v1.10** — Initial baseline release
+
+## What's Next
+
+AHoy Matey will continue to grow as new chess-engine features are added and tested.
 
 AHoy Matey is my first C# program and first working chess program. AM is in its infancy and is growing as more power and features are added.
 
