@@ -4,7 +4,6 @@ AHoy Matey – Chess Engine
 
 
 AHoy Matey is my first C# program and first working chess engine.
-AM is in its infancy and is growing as more power and features are added.
 
 ## Features
 
@@ -19,8 +18,6 @@ AM is in its infancy and is growing as more power and features are added.
 ## Current Version
 
 **v1.10** — Initial baseline release
-
-## What's Next
 
 AHoy Matey will continue to grow as new chess-engine features are added and tested.
 
