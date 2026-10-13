@@ -11,13 +11,12 @@ AHoy Matey is my first C# program and first working chess engine.
 - Minimax search
 - Alpha-beta pruning
 - Simple material evaluation
-- Randomized move ordering
-- Legal move generation through Rudzoft ChessLib
+- Move ordering
 - Principal variation reporting
 
 ## Current Version
 
-**v1.20** — Latest release
+**v1.0** — Latest release
 
 AHoy Matey will continue to grow as new chess-engine features are added and tested.
 
@@ -45,35 +44,10 @@ The copyright holder shall not be liable for any damages or losses arising from 
 Permission for Exceptions
 Requests for permission to modify the source code or create derivative versions may be directed to the copyright holder.
 
-2) Rudzen ChessLib - rudzen/ChessLib: C# chess library containing a complete data structure and move generation.
-
-MIT License
-
-Copyright (c) 2017-2023 Rudy Alex Kohn
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-
 Thanks to the gang who all participated:
 
 Captain – Tom Coffin * author / developer
 First Mate – ChatGPT * design consultant
-Mate – Rudzen ChessLib * move generation, mechanics
 Mate – Mike Dane * C# youtube instructor
     Introduction | C# | Tutorial 1 - YouTube
 
