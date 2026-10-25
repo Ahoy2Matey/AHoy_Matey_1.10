@@ -12,11 +12,12 @@ AHoy Matey is my first C# program and first working chess engine.
 - Alpha-beta pruning
 - Simple material evaluation
 - Move ordering
+- Transposition table
 - Principal variation reporting
 
 ## Current Version
 
-**v1.0** — Latest release
+**v1.1** — Latest release
 
 AHoy Matey will continue to grow as new chess-engine features are added and tested.
 
