@@ -7,17 +7,18 @@ AHoy Matey is my first C# program and first working chess engine.
 
 ## Features
 
-- UCI compatible
+- UCI compatible including time controls
 - Minimax search
 - Alpha-beta pruning
 - Simple material evaluation
 - Move ordering
 - Transposition table
 - Principal variation reporting
+- Iterative Deepening
 
 ## Current Version
 
-**v1.1** — Latest release
+**v1.2** — Latest release
 
 AHoy Matey will continue to grow as new chess-engine features are added and tested.
 
